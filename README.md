@@ -33,7 +33,7 @@ It provides students with details about MBBS programs, available seats, and help
 _Add screenshots of your project UI here (homepage, forms, etc.). Example:_  
 
 ![Home Page](assets/home.png)  
-![Contact Form](docs/screenshots/contact.png)  
+![Contact Form](assets/site.png)  
 
 ---
 
